@@ -1,0 +1,2 @@
+# enkapsulasi
+getter&amp;setter
